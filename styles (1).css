@@ -1,0 +1,127 @@
+
+#title{
+  background-color: #FFE5B4;
+  color: #000;
+}
+
+
+p{
+  text-align: center;
+  font-size: 17px;
+  font-family: 'Merienda', cursive;
+  line-height: 29px;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Merienda', cursive;
+  line-height: 29px;
+  font-weight: bold;
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+
+img{
+  text-align: center;
+}
+.big-heading{
+  font-size: 150px;
+  font-family: 'Tangerine', cursive;
+  font-weight: bold;
+}
+
+.navbar-brand{
+  font-family: 'Playball', cursive;
+  font-weight: bold;
+}
+
+.nb{
+  padding-top: 30px;
+  padding-bottom: 45px;
+}
+.nav-item{
+  padding: 0 18px;
+  font-weight: bold;
+}
+
+
+.heading1{
+font-family: 'Courgette', cursive;
+font-size: 60px;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+color: #FF6F61;
+}
+
+.heading2{
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  line-height: 29px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #8f8f8f;
+}
+
+.heading3{
+  font-family: 'Merienda', cursive;
+  text-align: center;
+  line-height: 29px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FF6F61;
+}
+
+.paragraph{
+  text-align: center;
+  font-size: 17px;
+  font-family: 'Merienda', cursive;
+  line-height: 29px;
+  padding-bottom: 20px;
+}
+
+.paragraph1{
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Merienda', cursive;
+  line-height: 29px;
+  padding-bottom: 20px;
+}
+
+.horizontal-line{
+  border: dotted #ff847c 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.horizontal-line1{
+  border: dotted #ff847c 4px;
+  border-bottom: none;
+  width: 8%;
+  margin: 100px auto;
+}
+
+.links{
+  color: #ff847c;
+}
+
+.links1{
+  color: #ff847c;
+  text-align: center;
+
+
+}
+
+.link{
+  color: #000;
+  text-decoration: underline;
+}
+.items{
+  font-family: 'Merienda', cursive;
+  color: #FF6F61;
+  text-align: center;
+  font-size: 19px;
+  font-weight: bold;
+}
